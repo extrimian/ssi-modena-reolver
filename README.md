@@ -1,1 +1,1 @@
-# ssi-modena-reolver
+# ssi-modena-resolver
